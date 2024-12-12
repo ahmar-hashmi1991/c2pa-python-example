@@ -5,3 +5,7 @@ kms-signing.crt
 kms-signing.csr
 rootCA.crt
 rootCA.key
+c2pa-env
+.idea
+signed.jpg
+ps256*
